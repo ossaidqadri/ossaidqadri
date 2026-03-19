@@ -14,10 +14,13 @@
 
 AI-powered legal assistant with Pakistani law expertise, real-time document analysis, and WebSocket chat
 
+**[HP Business Edge — RAG Platform](https://github.com/ossaidqadri/RAG_Project)**
+Enterprise Python RAG platform with multi-tab Gradio UI for telemetry analysis, documentation Q&A, and RFQ insights — powered by LangChain, Ollama, ChromaDB, and SQLite
+
 ### Real Estate & Business Platforms
 
 **[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/ossaidqadri/Bin_yousuf)
-Premium property platform with Google Sheets integration and WhatsApp automation
+Astro 5 + React property platform with Google Sheets CRM integration and GSAP animations
 
 **[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/ossaidqadri/narkins-builders)
 Next.js 15 construction platform with TinaCMS, PWA capabilities, and advanced CRM
@@ -32,6 +35,9 @@ Car wash service platform built with Next.js 16 and TypeScript, deployed on Verc
 
 **[OtherDev Canvas](https://github.com/imossaidqadri/otherdev-canvas)**
 Multi-tenant CMS platform for OtherDev Clients, enabling multiple clients to manage content independently
+
+**[Payload Multi-Tenant SaaS Skill](https://github.com/ossaidqadri/payload-skill)**
+AI coding agent skill for scaffolding production-grade multi-tenant SaaS systems with Payload CMS — includes auth, tenant isolation, roles, and billing flows
 
 ### E-commerce & Shopify
 
@@ -56,16 +62,16 @@ Custom Shopify theme with Tailwind CSS integration, optimized for performance an
 
 **Frontend:** Next.js 15/16 • React 18/19 • Astro • TypeScript 5.x • Eleventy
 **Styling:** Tailwind CSS 4 • shadcn/ui • GSAP • Framer Motion • Radix UI
-**Backend:** Go • MySQL • PostgreSQL • MongoDB
+**Backend:** Go • Python • FastAPI • MySQL • PostgreSQL • MongoDB
 **E-commerce:** Shopify Liquid • Shopify Hydrogen • React Router 7
 **Real-time:** YJS • WebSocket • Nanostores • TipTap
-**Tools:** Bun • Vercel • TinaCMS • Turbopack • Vite
+**Tools:** Bun • Vercel • TinaCMS • Turbopack • Vite • LangChain • Gradio • Google Cloud Run
 
 -----
 
 ## What We Build
 
-**AI-Powered Platforms** → Legal assistants with document analysis and real-time chat
+**AI-Powered Platforms** → Legal assistants, RAG platforms, and document analysis pipelines
 **Real Estate Systems** → Property sites with CRM integration and automated lead routing
 **Legal Technology** → Document collaboration with real-time sync and e-signature workflows
 **Multi-Tenant Systems** → Scalable CMS platforms with independent client management
