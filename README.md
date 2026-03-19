@@ -10,55 +10,73 @@
 
 ### AI & Legal Tech
 
-**[Lexa AI Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/imossaidqadri/lexa-ui) • [Backend](https://github.com/imossaidqadri/lexa-backend) 
+**[Lexa AI Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/imossaidqadri/lexa-ui) • [Backend](https://github.com/imossaidqadri/lexa-backend)
 
 AI-powered legal assistant with Pakistani law expertise, real-time document analysis, and WebSocket chat
 
+**[HP Business Edge — RAG Platform](https://github.com/ossaidqadri/RAG_Project)**
+Enterprise Python RAG platform with multi-tab Gradio UI for telemetry analysis, documentation Q&A, and RFQ insights — powered by LangChain, Ollama, ChromaDB, and SQLite
+
 ### Real Estate & Business Platforms
 
-**[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/imossaidqadri/Bin_yousuf)
-Premium property platform with Google Sheets integration and WhatsApp automation
+**[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/ossaidqadri/Bin_yousuf)
+Astro 5 + React property platform with Google Sheets CRM integration and GSAP animations
 
-**[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/imossaidqadri/narkins-builders)
+**[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/ossaidqadri/narkins-builders)
 Next.js 15 construction platform with TinaCMS, PWA capabilities, and advanced CRM
 
-**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/imossaidqadri/otherdev-web-v2)
+**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/ossaidqadri/otherdev-web-v2)
 Modern Next.js 16 portfolio with tRPC API, full TypeScript coverage, and interactive contact system
+
+**[Carwala](https://github.com/ossaidqadri/od-carwala)**
+Car wash service platform built with Next.js 16 and TypeScript, deployed on Vercel
 
 ### Multi-Tenant Platforms
 
 **[OtherDev Canvas](https://github.com/imossaidqadri/otherdev-canvas)**
 Multi-tenant CMS platform for OtherDev Clients, enabling multiple clients to manage content independently
 
+**[Payload Multi-Tenant SaaS Skill](https://github.com/ossaidqadri/payload-skill)**
+AI coding agent skill for scaffolding production-grade multi-tenant SaaS systems with Payload CMS — includes auth, tenant isolation, roles, and billing flows
+
 ### E-commerce & Shopify
 
-**[Wish Apparels](https://www.wishapparels.com)** • [Code](https://github.com/imossaidqadri/wish-apparels-winter-24)
+**[Shopify Hydrogen Template](https://github.com/ossaidqadri/shopify-hydrogen)**
+Modern Shopify storefront built with Hydrogen, React Router 7, and shadcn/ui — full React stack for selling physical products without Liquid templates
+
+**[Kiswa Noir Theme v2](https://github.com/ossaidqadri/od-kiswanoir-v2)**
+Production-ready Shopify theme with 30+ language support, WCAG 2.1 AA accessibility compliance, and Tailwind CSS — built for the Kiswa Noir fashion brand
+
+**[Parcheh Theme](https://github.com/ossaidqadri/od-parcheh)**
+Custom Shopify Liquid theme with a minimalist, component-driven architecture
+
+**[Wish Apparels](https://www.wishapparels.com)** • [Code](https://github.com/ossaidqadri/wish-apparels-winter-24)
 Minimalist fashion theme following “good design is as little design as possible”
 
-**[Boulevard Theme](https://www.blvdretail.co)** • [Code](https://github.com/imossaidqadri/od-blvd)
+**[Boulevard Theme](https://www.blvdretail.co)** • [Code](https://github.com/ossaidqadri/od-blvd)
 Custom Shopify theme with Tailwind CSS integration, optimized for performance and conversion
 
 -----
 
 ## Core Technologies
 
-**Frontend:** Next.js 15/16 • React 19 • Astro • TypeScript 5.x • Eleventy
-**Styling:** Tailwind CSS 4 • GSAP • Framer Motion • Radix UI
-**Backend:** Go  • MySQL • PostgreSQL • MongoDB
-**E-commerce:** Shopify Liquid development
+**Frontend:** Next.js 15/16 • React 18/19 • Astro • TypeScript 5.x • Eleventy
+**Styling:** Tailwind CSS 4 • shadcn/ui • GSAP • Framer Motion • Radix UI
+**Backend:** Go • Python • FastAPI • MySQL • PostgreSQL • MongoDB
+**E-commerce:** Shopify Liquid • Shopify Hydrogen • React Router 7
 **Real-time:** YJS • WebSocket • Nanostores • TipTap
-**Tools:** Bun • Vercel • TinaCMS • Turbopack
+**Tools:** Bun • Vercel • TinaCMS • Turbopack • Vite • LangChain • Gradio • Google Cloud Run
 
 -----
 
 ## What We Build
 
-**AI-Powered Platforms** → Legal assistants with document analysis and real-time chat
+**AI-Powered Platforms** → Legal assistants, RAG platforms, and document analysis pipelines
 **Real Estate Systems** → Property sites with CRM integration and automated lead routing
 **Legal Technology** → Document collaboration with real-time sync and e-signature workflows
 **Multi-Tenant Systems** → Scalable CMS platforms with independent client management
-**E-commerce** → Custom Shopify themes with performance and conversion focus
-**Business Platforms** → Construction, content systems, and offline-capable PWAs
+**E-commerce** → Custom Shopify themes and Hydrogen storefronts with performance and conversion focus
+**Business Platforms** → Construction, car wash, content systems, and offline-capable PWAs
 
 -----
 
@@ -70,7 +88,7 @@ We ship systems that scale, not just websites. Multi-tenant platforms that serve
 
 - Full-stack applications with complex business logic
 - AI integration with real-time capabilities
-- Shopify optimization and custom themes
+- Shopify optimization, custom themes, and Hydrogen storefronts
 - Real-time systems and performance consulting
 
 **We don’t:**
