@@ -40,7 +40,7 @@ Premium property showcase with GSAP animations, Google Sheets lead capture, What
 **[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/ossaidqadri/narkins-builders)  
 Next.js 15 real estate platform with TinaCMS, MySQL CRM, JWT auth, Google Sheets integration, and PWA service worker. Core Web Vitals LCP under 2.5s.
 
-**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/ossaidqadri/otherdev-web-v2)  
+**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/ossaidqadri/otherdev.web-02)  
 Next.js 16 studio portfolio with tRPC API, Voyage AI RAG knowledge base, full TypeScript coverage, and AI-powered assistant.
 
 ### E-commerce & Shopify
