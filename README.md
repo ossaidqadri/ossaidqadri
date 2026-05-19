@@ -66,7 +66,7 @@ Custom Shopify theme with Tailwind CSS, optimised for performance and conversion
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ossaidqadri&show_icons=true&theme=radical&hide_border=true)](https://github.com/ossaidqadri)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ossaidqadri&show_icons=true&theme=radical)](https://github.com/ossaidqadri)
 
 ---
 
