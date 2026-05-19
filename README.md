@@ -55,12 +55,14 @@ Custom Shopify theme with Tailwind CSS, optimised for performance and conversion
 
 ## Core Technologies
 
-**AI & RAG:** Claude API (Anthropic) • Qdrant • Isaacus Kanon 2 • Voyage AI • Multi-agent systems • SSE streaming  
-**Frontend:** Next.js 15/16 • React 19 • Astro • TypeScript 5.x • Tailwind CSS 4 • GSAP • Framer Motion  
-**Backend:** Python • FastAPI • Go • Node.js • MySQL • PostgreSQL • MongoDB  
-**E-commerce:** Shopify Liquid • Hydrogen • PayFast integration  
-**Real-time:** YJS • WebSocket • Hocuspocus • TipTap • Nanostores  
-**Tools:** Bun • Vercel • Azure • TinaCMS • Docker • Figma • WakaTime
+| Category | Technologies |
+|----------|-------------|
+| **AI & RAG** | Claude API (Anthropic) • Qdrant • Isaacus Kanon 2 • Voyage AI • Multi-agent systems • SSE streaming |
+| **Frontend** | Next.js 15/16 • React 19 • Astro • TypeScript 5.x • Tailwind CSS 4 • GSAP • Framer Motion |
+| **Backend** | Python • FastAPI • Go • Node.js • MySQL • PostgreSQL • MongoDB |
+| **E-commerce** | Shopify Liquid • Hydrogen • PayFast integration |
+| **Real-time** | YJS • WebSocket • Hocuspocus • TipTap • Nanostores |
+| **Tools** | Bun • Vercel • Azure • TinaCMS • Docker • Figma • WakaTime |
 
 ---
 
