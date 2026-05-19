@@ -60,7 +60,13 @@ Custom Shopify theme with Tailwind CSS, optimised for performance and conversion
 **Backend:** Python • FastAPI • Go • Node.js • MySQL • PostgreSQL • MongoDB  
 **E-commerce:** Shopify Liquid • Hydrogen • PayFast integration  
 **Real-time:** YJS • WebSocket • Hocuspocus • TipTap • Nanostores  
-**Tools:** Bun • Vercel • Azure • TinaCMS • Docker • Figma
+**Tools:** Bun • Vercel • Azure • TinaCMS • Docker • Figma • WakaTime
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imossaidqadri&show_icons=true&theme=radical&hide_border=true)](https://github.com/imossaidqadri)
 
 ---
 
