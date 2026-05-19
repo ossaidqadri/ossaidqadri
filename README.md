@@ -2,7 +2,7 @@
 *Building production AI systems, contributing to open source, and shipping scalable digital products from Karachi*
 
 [![Website](https://img.shields.io/badge/Portfolio-otherdev.com-black)](https://www.otherdev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ossaidqadri-0077B5)](https://www.linkedin.com/in/imossaidqadri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ossaidqadri-0077B5)](https://www.linkedin.com/in/ossaidqadri)
 [![Email](https://img.shields.io/badge/Email-imossaidquadri@gmail.com-red)](mailto:imossaidquadri@gmail.com)
 
 ---
@@ -82,4 +82,4 @@ I take on full-stack applications with complex business logic, AI integration, S
 
 ## Connect
 
-**Studio:** [otherdev.com](https://www.otherdev.com) • **LinkedIn:** [imossaidqadri](https://www.linkedin.com/in/imossaidqadri) • **Instagram:** [@ossaidqadri](https://www.instagram.com/ossaidqadri)
+**Studio:** [otherdev.com](https://www.otherdev.com) • **LinkedIn:** [ossaidqadri](https://www.linkedin.com/in/ossaidqadri) • **Instagram:** [@ossaidqadri](https://www.instagram.com/ossaidqadri)
