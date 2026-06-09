@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/46c5f70f-843b-4a83-a627-18f5703d685c
+
 **Full-Stack Developer & AI Engineer** • Founder of [Other Dev](https://www.otherdev.com)  
 *Building production AI systems, contributing to open source, and shipping scalable digital products from Karachi*
 
