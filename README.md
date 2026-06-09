@@ -3,7 +3,7 @@
 **Full-Stack Developer & AI Engineer** • Founder of [Other Dev](https://www.otherdev.com)  
 *Building production AI systems, contributing to open source, and shipping scalable digital products from Karachi*
 
-<video src="https://github.com/user-attachments/assets/46c5f70f-843b-4a83-a627-18f5703d685c" autoplay loop muted playsinline controls width="100%" style="border-radius: 8px; margin: 16px 0; display: block; margin-left: auto; margin-right: auto;" onclick="this.muted=false; this.play()"></video>
+<video src="https://github.com/user-attachments/assets/46c5f70f-843b-4a83-a627-18f5703d685c" autoplay loop muted playsinline controls preload="metadata" width="640" height="640" style="border-radius: 8px; margin: 16px auto; display: block; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" onclick="this.muted=false; this.play()"></video>
 
 [![Website](https://img.shields.io/badge/Portfolio-otherdev.com-black)](https://www.otherdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ossaidqadri-0077B5)](https://www.linkedin.com/in/ossaidqadri)
