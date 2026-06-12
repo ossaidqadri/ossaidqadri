@@ -19,10 +19,6 @@
 
 ---
 
-<div style="text-align: center;">
-<video src="https://github.com/user-attachments/assets/46c5f70f-843b-4a83-a627-18f5703d685c" autoplay loop muted playsinline controls preload="metadata" width="640" height="640" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" onclick="this.muted=false; this.play()"></video>
-</div>
-
 ## Projects
 
 ### AI & Policy
