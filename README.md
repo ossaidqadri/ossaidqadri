@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-otherdev.com-black)](https://www.otherdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ossaidqadri-0077B5)](https://www.linkedin.com/in/ossaidqadri)
-[![Email](https://img.shields.io/badge/Email-imossaidquadri@gmail.com-red)](mailto:ossaid@otherdev.com)
+[![Email](https://img.shields.io/badge/Email-ossaid@otherdev.com-red)](mailto:ossaid@otherdev.com)
 
 ---
 
