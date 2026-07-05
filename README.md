@@ -28,11 +28,9 @@ Multi-agent platform simulating fiscal policy impact across 4 demographically-gr
 
 ### AI & Legal Tech
 
-**[Lexa RAG — Pakistani Legal AI](https://legal-rag-chi.vercel.app)** • [Code](https://github.com/ossaidqadri/lexa-rag)  
-Production RAG pipeline over 280+ constitutional articles (Constitution of Pakistan 1973). Qdrant vector DB with 1792-dim Isaacus Kanon 2 embeddings, COSINE distance, UUID v5 idempotent vector IDs derived from citation handles, and payload indexes on `act_name`, `section_number`, and `citation_handle` for metadata-filtered retrieval.
+**[Loom Legal AI Platform](https://loom-legal.otherdev.com/home)** • **[Frontend](https://github.com/ossaidqadri/loom-legal)**
+Legal document intelligence platform with real-time collaboration (YJS + Hocuspocus), TipTap rich-text editor with digital signatures, generative AI document chat, and offline-first Service Worker architecture. Production RAG pipeline over 280+ constitutional articles (Constitution of Pakistan 1973). Qdrant vector DB with 1792-dim Isaacus Kanon 2 embeddings, COSINE distance, UUID v5 idempotent vector IDs derived from citation handles, and payload indexes on `act_name`, `section_number`, and `citation_handle` for metadata-filtered retrieval.
 
-**[Lexa AI Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/ossaidqadri/lexa-ui) • [Backend](https://github.com/ossaidqadri/lexa-backend)  
-Legal document intelligence platform with real-time collaboration (YJS + Hocuspocus), TipTap rich-text editor with digital signatures, generative AI document chat, and offline-first Service Worker architecture.
 
 ### Real Estate & Business Platforms
 
