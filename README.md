@@ -13,7 +13,7 @@ I ship production AI systems, full-stack Next.js applications, and Shopify store
 - [UK AI Policy Simulation](https://poligent.systems) — Multi-agent fiscal policy simulator with Claude tool-use + extended thinking
 - [Other Dev](https://www.otherdev.com) — Next.js 16 studio site with Cohere RAG, Qdrant vector search, TanStack Query
 
-**Stack:** Next.js • React • TypeScript • Tailwind • Python • Go • Node.js • Shopify Liquid • Qdrant • Claude API
+**Stack:** Next.js • Svelte • Astro • Tailwind • Python • Go • Node.js • Shopify Liquid • Qdrant 
 
 Not WordPress. Not quick fixes. Only serious full-stack work.
 
