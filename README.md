@@ -1,85 +1,22 @@
+### Hey, I'm Ossaid 👋
 
+I ship production AI systems, full-stack Next.js applications, and Shopify storefronts from Karachi. Founded [Other Dev](https://www.otherdev.com) in 2021 — building digital products for clients across fashion, real estate, and fintech. 10+ live projects, Rs5M+ in revenue shipped.
 
-**Full-Stack Developer & AI Engineer** • Founder of [Other Dev](https://www.otherdev.com)  
-*Building production AI systems, contributing to open source, and shipping scalable digital products from Karachi*
+**What I do:**
+- AI-powered platforms (RAG pipelines, multi-agent systems, real-time collaboration)
+- Full-stack web apps (Next.js 15+, React, TypeScript, Tailwind)
+- E-commerce (Shopify Liquid, custom integrations, PayFast)
+- Open source (fixes in Astro, Payload CMS, Qwen Code)
 
-[![Website](https://img.shields.io/badge/Portfolio-otherdev.com-black)](https://www.otherdev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ossaidqadri-0077B5)](https://www.linkedin.com/in/ossaidqadri)
-[![Email](https://img.shields.io/badge/Email-ossaid@otherdev.com-red)](mailto:ossaid@otherdev.com)
+**Recent work:**
+- [Loom Legal AI](https://loom-legal.otherdev.com) — Constitutional document intelligence platform with real-time collab, TipTap editor, Qdrant RAG
+- [UK AI Policy Simulation](https://poligent.systems) — Multi-agent fiscal policy simulator with Claude tool-use + extended thinking
+- [Other Dev](https://www.otherdev.com) — Next.js 16 studio site with Cohere RAG, Qdrant vector search, TanStack Query
 
----
+**Stack:** Next.js • React • TypeScript • Tailwind • Python • Go • Node.js • Shopify Liquid • Qdrant • Claude API
 
-## Open Source Contributions
+Not WordPress. Not quick fixes. Only serious full-stack work.
 
-**[withastro/astro](https://github.com/withastro/astro)** — Fixed a Vite module graph traversal bug in Astro 6 where dynamically imported components failed to inject CSS on first dev load. Merged in PR #15988, co-authored with Matthew Phillips (Cloudflare).
-
-**[payloadcms/payload](https://github.com/payloadcms/payload)** — Fixed N+1 query pattern in RelationshipInput by introducing a global RelationshipBatcher that batches per-collection fetches into a single request. Also fixed invalid `h0` heading creation in the Lexical rich-text editor markdown transformer.
-
-**[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** — Merged Tab key support for CompletionMenu (PR #2293). Open PR for a WebSocket remote-control server enabling browser-based CLI interaction with token auth, rate limiting, and connection management.
-
----
-
-## Projects
-
-### AI & Policy
-
-**[UK AI Policy Simulation](https://poligent.systems)** • [Code](https://github.com/ossaidqadri/AI-Policy-Simulation)  
-Multi-agent platform simulating fiscal policy impact across 4 demographically-grounded population archetypes — compressing distributional analysis from weeks to minutes. Supervisor + archetype agents run in parallel via asyncio.gather(), each returning typed Reaction schemas via Claude tool-use with extended thinking streamed via SSE. Submitted to Anthropic Hackathon April 2026.
-
-### AI & Legal Tech
-
-**[Loom Legal AI Platform](https://loom-legal.otherdev.com/home)** • **[Frontend](https://github.com/ossaidqadri/loom-legal)**
-Legal document intelligence platform with real-time collaboration (YJS + Hocuspocus), TipTap rich-text editor with digital signatures, generative AI document chat, and offline-first Service Worker architecture. Production RAG pipeline over 280+ constitutional articles (Constitution of Pakistan 1973). Qdrant vector DB with 1792-dim Isaacus Kanon 2 embeddings, COSINE distance, UUID v5 idempotent vector IDs derived from citation handles, and payload indexes on `act_name`, `section_number`, and `citation_handle` for metadata-filtered retrieval.
-
-
-### Real Estate & Business Platforms
-
-**[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/ossaidqadri/Bin_yousuf)  
-Premium property showcase with GSAP animations, Google Sheets lead capture, WhatsApp integration, and structured SEO data.
-
-**[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/ossaidqadri/narkins-builders)  
-Next.js 15 real estate platform with TinaCMS, MySQL CRM, JWT auth, Google Sheets integration, and PWA service worker. Core Web Vitals LCP under 2.5s.
-
-**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/ossaidqadri/otherdev.web-02)  
- Next.js 16 studio portfolio with Next.js API Routes + TanStack Query, Cohere RAG knowledge base (embed + rerank via Vercel AI Gateway), Qdrant vector search, full TypeScript coverage, and AI-powered assistant.
-
-### E-commerce & Shopify
-
-**[Wish Apparels](https://www.wishapparels.com)** • [Code](https://github.com/ossaidqadri/wish-apparels-winter-24)  
-Minimalist Shopify theme with PayFast gateway integration — scaled from Instagram DMs to Rs5M+ annual revenue.
-
-**[Boulevard Theme](https://www.blvdretail.co)** • [Code](https://github.com/ossaidqadri/od-blvd)  
-Custom Shopify theme with Tailwind CSS, optimised for performance and conversion.
-
----
-
-## Core Technologies
-
-| Category | Technologies |
-|----------|-------------|
-| **AI & RAG** | Groq/Cerebras • Qdrant • Isaacus Kanon 2 • Cohere • Multi-agent systems • SSE streaming |
-| **Frontend** | Next.js 15/16 • React 19 • Astro • TypeScript 5.x • Tailwind CSS 4 • GSAP • Framer Motion |
-| **Backend** | Python • Go • Node.js • MySQL • PostgreSQL • MongoDB |
-| **E-commerce** | Shopify Liquid • Hydrogen • PayFast integration |
-| **Real-time** | YJS • WebSocket • Hocuspocus • TipTap • Nanostores |
-| **Tools** | Bun • Vercel • Azure • Payload CMS • Docker • GCP • WakaTime |
-
----
-
-## GitHub Stats
-
-[![Streak](https://streak-stats.demolab.com/?user=ossaidqadri&theme=radical)](https://git.io/streak-stats)
-
----
-
-## Other Dev
-
-I founded [Other Dev](https://www.otherdev.com) in 2021 — a Karachi-based studio building full-stack digital products for clients across fashion, real estate, and services. 10+ clients shipped, Rs5M+ in client revenue generated through structured e-commerce operations.
-
-I take on full-stack applications with complex business logic, AI integration, Shopify optimization, and real-time systems. Not WordPress. Not quick fixes.
-
----
-
-## Connect
-
-**Studio:** [otherdev.com](https://www.otherdev.com) • **LinkedIn:** [ossaidqadri](https://www.linkedin.com/in/ossaidqadri) • **Instagram:** [@ossaidqadri](https://www.instagram.com/ossaidqadri)
+- 📫 Reach me: [ossaid@otherdev.com](mailto:ossaid@otherdev.com) | [@ossaidqadri](https://linkedin.com/in/ossaidqadri)
+- 🔗 Studio: [otherdev.com](https://www.otherdev.com)
+- 😄 Pronouns: He/him
