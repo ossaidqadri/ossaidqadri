@@ -1,6 +1,6 @@
 ### Hey, I'm Ossaid 👋
 
-I ship production AI systems, full-stack Next.js applications, and Shopify storefronts from Karachi. Founded [Other Dev](https://www.otherdev.com) in 2021 — building digital products for clients across fashion, real estate, and fintech. 10+ live projects, Rs5M+ in revenue shipped.
+I ship production AI systems, full-stack Next.js applications, and Shopify storefronts from Karachi. Founded [Other Dev](https://www.otherdev.com) in 2021 — building digital products for clients across fashion, real estate, and fintech. several live projects, Rs5M+ in revenue shipped.
 
 **What I do:**
 - AI-powered platforms (RAG pipelines, multi-agent systems, real-time collaboration)
