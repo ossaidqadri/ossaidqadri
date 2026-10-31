@@ -1,22 +1,20 @@
 ### Hey, I'm Ossaid 👋
 
-I ship production AI systems, full-stack Next.js applications, and Shopify storefronts from Karachi. Founded [Other Dev](https://www.otherdev.com) in 2021 — building digital products for clients across fashion, real estate, and fintech. several live projects, Rs5M+ in revenue shipped.
+I build software from Karachi. I'm Chief Innovation Officer at [PolicySimAI](https://www.policysimai.co.uk/), a UCL-backed startup that lets governments test a policy on a simulated population before it goes live, and a Software Developer at [ProCheck](https://procheck.io/). Since 2021 I've also co-run [Other Dev](https://www.otherdev.com), a small studio building websites and custom software. I'm finishing a degree in Accounting and Finance at IoBM.
 
-**What I do:**
-- AI-powered platforms (RAG pipelines, multi-agent systems, real-time collaboration)
-- Full-stack web apps (Next.js 15+, React, TypeScript, Tailwind)
-- E-commerce (Shopify Liquid, custom integrations, PayFast)
-- Open source (fixes in Astro, Payload CMS, Qwen Code)
+**What I work on:**
+- Web apps and backends: React, TanStack, TypeScript, Go, Python
+- AI features where the AI writes the words and real calculations give the numbers
+- Factory software: dashboards and sensor-based predictive maintenance
+- Online stores: Shopify with local payments
+- Open source: fixes and features merged into Astro, Payload CMS and Qwen Code CLI
 
 **Recent work:**
-- [Loom Legal AI](https://loom-legal.otherdev.com) — Constitutional document intelligence platform with real-time collab, TipTap editor, Qdrant RAG
-- [UK AI Policy Simulation](https://poligent.systems) — Multi-agent fiscal policy simulator with Claude tool-use + extended thinking
-- [Other Dev](https://www.otherdev.com) — Next.js 16 studio site with Cohere RAG, Qdrant vector search, TanStack Query
+- [PolicySimAI](https://www.policysimai.co.uk/): policy testing platform, used in a UN U4SSC study. I built the backend, web app, AI chat, sign-in and PDF reports.
+- [ProCheck](https://procheck.io/): lead the factory-efficiency dashboard used on 250 production lines in 9 countries, and built a predictive maintenance pilot for Martin Dow.
+- [Other Dev](https://www.otherdev.com): 10+ clients in retail and real estate, including Wish Apparels' Shopify store, which grew from Instagram DMs to Rs5M a year.
 
-**Stack:** AWS • Next.js • Svelte • Astro • Tailwind • Python • Go  • Shopify Hydrogen/ Headless • Qdrant 
+**Stack:** TypeScript • Go • Python • Rust • Svelte • React • TanStack • Astro • AWS • Cloudflare Workers • PostgreSQL • Shopify
 
-Not WordPress. Not quick fixes. Only serious full-stack work.
-
-- 📫 Reach me: [ossaid@otherdev.com](mailto:ossaid@otherdev.com) | [@ossaidqadri](https://linkedin.com/in/ossaidqadri)
-- 🔗 Studio: [otherdev.com](https://www.otherdev.com)
-- 😄 Pronouns: He/him
+- Reach me: [ossaid@otherdev.com](mailto:ossaid@otherdev.com) | [LinkedIn](https://linkedin.com/in/ossaidqadri)
+- Pronouns: He/him
