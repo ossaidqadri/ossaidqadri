@@ -12,7 +12,6 @@ I build software from Karachi. I'm Chief Innovation Officer at [PolicySimAI](htt
 **Recent work:**
 - [PolicySimAI](https://www.policysimai.co.uk/): policy testing platform, used in a UN U4SSC study. I built the backend, web app, AI chat, sign-in and PDF reports.
 - [ProCheck](https://procheck.io/): lead the factory-efficiency dashboard used on 250 production lines in 9 countries, and built a predictive maintenance pilot for Martin Dow.
-- [Other Dev](https://www.otherdev.com): 10+ clients in retail and real estate, including Wish Apparels' Shopify store, which grew from Instagram DMs to Rs5M a year.
 
 **Stack:** TypeScript • Go • Python • Rust • Svelte • React • TanStack • Astro • AWS • Cloudflare Workers • PostgreSQL • Shopify
 
